@@ -42,6 +42,5 @@ This script is designed to analyze bikeshare data from three major cities in the
 ### Raw Data Display
 - Option to display raw data in chunks.
 
-## License
 
 Feel free to contribute or provide feedback! Happy analyzing!
